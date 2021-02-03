@@ -2,7 +2,6 @@
 Table Creator (Data Grid View) for Consoles/Terminals
 
 Easy to use!
-/*
 
 
                 CUSTOM TABLE CREATOR
@@ -24,4 +23,3 @@ Easy to use!
       Create you're footer                createFooter()                              Return value Function
 
 
-*/
