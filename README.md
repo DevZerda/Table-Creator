@@ -1,6 +1,6 @@
 # Table-Creator
 Table Creator (Data Grid View) for Consoles/Terminals
-
+/*
 Easy to use!
 
 Doc Below
@@ -23,3 +23,6 @@ Create you're header                createHeader()                              
 Create you're row                   createRow(["test", "test", "test"])         Return Value Function
 
 Create you're footer                createFooter()                              Return value Function
+
+
+*/
