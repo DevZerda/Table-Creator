@@ -16,8 +16,6 @@ Doc Below
 
 /*
 
-<?php
-
 INCLUDE FILE                        include("./creator.php");                   File Inclusion
 
 Define variable calling class       new Creator();                              Calling Class
