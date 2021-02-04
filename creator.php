@@ -19,7 +19,7 @@ Define variable calling class       new Creator();                              
 
 Create create ya colum sizes        set_columns([10, 30, 14]);                  Regular Function
 
-Create you're header                createHeader(). "\r\n";                     Return Value Function
+Create you're header                createHeader(["test", "test", "test"]). "\r\n";                     Return Value Function
 
 Create you're row                   createRow(["test", "test", "test"]);        Return Value Function
 
