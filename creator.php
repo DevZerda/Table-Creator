@@ -15,7 +15,7 @@
 
 INCLUDE FILE                        include("./creator.php");                   File Inclusion
 
-Define variable calling class       new Creator();                              Calling Class
+Define variable calling class       new Creator([col_values]);                              Calling Class
 
 Create create ya colum sizes        set_columns([10, 30, 14]);                  Regular Function
 
